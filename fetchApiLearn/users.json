@@ -1,0 +1,17 @@
+[
+    {
+        "id":1,
+        "name":"jenan",
+        "email":"jenan@pwc.com"
+    },
+    {
+        "id":2,
+        "name":"raya",
+        "email":"raya@pwc.com"
+    },
+    {
+        "id":3,
+        "name":"zeina",
+        "email":"zaina@pwc.com"
+    }
+]
